@@ -1,11 +1,10 @@
 [
-   
     {
         "title": "GO for a run",
         "text": "RUN forrest run for health",
         "id": "0e74"
     },
-            {
+    {
         "title": "Finish this",
         "text": "Figure out this challenge",
         "id": "238c"
@@ -14,5 +13,15 @@
         "title": "Get this done",
         "text": "Figure this out",
         "id": "0321"
+    },
+    {
+        "title": "Get the delete to work",
+        "text": "I really want to get the delete to work!",
+        "id": "7527"
+    },
+    {
+        "title": "Tutor",
+        "text": "Tutoring session with Scott",
+        "id": "d15c"
     }
 ]

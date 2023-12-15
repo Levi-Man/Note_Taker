@@ -8,7 +8,6 @@ const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-// app.use('/api', api);
 
 app.use('/api/notes', noteRoute);
 app.use(express.static('public'));
@@ -25,12 +24,14 @@ app.post('/api/notes', (req, res) => {
   res.json(newNote);
 });
 
-app.delete('/api/notes/:id', (req, res) => {
-  const idToDelete = req.params.id;
-  // Implement logic to delete the note with the specified ID
-  // ...
-  res.json({ success: true });
-});
+// app.delete('/api/notes/:id', (req, res) => {
+//   const idToDelete = req.params.id;
+//   // Implement logic to delete the note with the specified ID
+//   console.log(idToDelete);
+//   // req.splice(id=idToDelete);
+
+//   res.json({ success: true });
+// });
 
 
 //GET route for homepage
