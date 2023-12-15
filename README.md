@@ -25,8 +25,9 @@ Click the link
 Type your notes in the field and save the notes to the database. The notes are displayed on the left side as a list. Click on a note on the left to bring it up again.  Click delete to delete the note. 
 
 ## Screenshot and Mock-up
-<img src="./assets/Screenshot 2023-12-14 095204" alt="Screenshot of the app">
-[Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo.gif)
+<img src="https://github.com/Levi-Man/Note_Taker/blob/main/Assets/11-express-homework-demo.gif" alt="Screenshot of the app">
+[Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.]
+(./Assets/11-express-homework-demo.gif)
 * mock-up c/o Bootcamp
 
 ## License
